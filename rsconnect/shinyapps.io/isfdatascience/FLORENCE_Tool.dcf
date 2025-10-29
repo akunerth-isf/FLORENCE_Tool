@@ -5,9 +5,8 @@ account: isfdatascience
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15886609
-bundleId: 11099789
+bundleId: 11099801
 url: https://isfdatascience.shinyapps.io/FLORENCE_Tool/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .RData|.RDataTmp|.Rprofile|global.R|README.md|renv.lock|www
