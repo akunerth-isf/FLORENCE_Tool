@@ -1,0 +1,8 @@
+#Create CSS Style for Header
+/* styles.css */
+  .app-title {
+    font-size: 60px; 
+      font-weight: bold;
+    color: white;
+      text-align: center;
+  }

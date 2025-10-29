@@ -1,0 +1,12 @@
+name: DCF_FSU_FLORENCE_Tool
+title: DCF_FSU_FLORENCE_Tool
+username: isfdatascience
+account: isfdatascience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15887073
+bundleId: 11093139
+url: https://isfdatascience.shinyapps.io/DCF_FSU_FLORENCE_Tool/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

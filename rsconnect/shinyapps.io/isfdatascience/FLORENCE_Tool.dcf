@@ -1,0 +1,12 @@
+name: FLORENCE_Tool
+title: FLORENCE_Tool
+username: isfdatascience
+account: isfdatascience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15886609
+bundleId: 11098794
+url: https://isfdatascience.shinyapps.io/FLORENCE_Tool/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
